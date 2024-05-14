@@ -1,4 +1,4 @@
-# Hello! I'm Mert 👋
+# Hello! I'm Mert <img align="center" src="https://cdn3.emoji.gg/emojis/23209-milhouse-simpsons-hey.gif" width="48px" height="48px" alt="Milhouse_Simpsons_Hey">
 
 ## About Me
 
@@ -20,10 +20,10 @@ I'm Mert, a software developer with a keen interest in data science and computer
 
 ## Contact Me
 
-- <a href="https://emoji.gg/emoji/2989-gmail"><img src="https://cdn3.emoji.gg/emojis/2989-gmail.png" width="16px" height="16px" alt="Gmail"></a> Email: mertyilmazgroup@gmail.com
-- <a href="https://emoji.gg/emoji/5085-linkedin-logo"><img src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="16px" height="16px" alt="Linkedin_logo"></a> LinkedIn: [linkedin.com/in/mert-yilmaz](www.linkedin.com/in/yilmaz-mert)
-- <a href="https://emoji.gg/emoji/7081-website"><img src="https://cdn3.emoji.gg/emojis/7081-website.png" width="16px" height="16px" alt="Website"></a> Personal Website: [In development](www.linkedin.com/in/yilmaz-mert)
-- <a href="https://emoji.gg/emoji/35361-discord"><img src="https://cdn3.emoji.gg/emojis/35361-discord.png" width="18px" height="18px" alt="Discord"></a> Discord: yilmazmert
+- <img align="center" src="https://cdn3.emoji.gg/emojis/2989-gmail.png" width="16px" height="16px" alt="Gmail"> Email: mertyilmazgroup@gmail.com
+- <img align="center" src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="16px" height="16px" alt="Linkedin_logo"> LinkedIn: [linkedin.com/in/mert-yilmaz](https://www.linkedin.com/in/mert-yilmaz)
+- <img align="center" src="https://cdn3.emoji.gg/emojis/7081-website.png" width="16px" height="16px" alt="Website"> Personal Website: [In development](https://www.linkedin.com/in/yilmaz-mert)
+- <img align="center" src="https://cdn3.emoji.gg/emojis/35361-discord.png" width="18px" height="18px" alt="Discord"> Discord: yilmazmert
 
 Feel free to reach out to me. I'm always open to collaboration on new projects and sharing knowledge!
 
