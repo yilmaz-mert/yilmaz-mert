@@ -20,9 +20,10 @@ I'm Mert, a software developer with a keen interest in data science and computer
 
 ## Contact Me
 
-- 📧 Email: mertyilmazgroup@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/mert-yilmaz](www.linkedin.com/in/yilmaz-mert)
-- 🌐 Personal Website: [In development](www.linkedin.com/in/yilmaz-mert)
+- <a href="https://emoji.gg/emoji/2989-gmail"><img src="https://cdn3.emoji.gg/emojis/2989-gmail.png" width="16px" height="16px" alt="Gmail"></a> Email: mertyilmazgroup@gmail.com
+- <a href="https://emoji.gg/emoji/5085-linkedin-logo"><img src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="16px" height="16px" alt="Linkedin_logo"></a> LinkedIn: [linkedin.com/in/mert-yilmaz](www.linkedin.com/in/yilmaz-mert)
+- <a href="https://emoji.gg/emoji/7081-website"><img src="https://cdn3.emoji.gg/emojis/7081-website.png" width="16px" height="16px" alt="Website"></a> Personal Website: [In development](www.linkedin.com/in/yilmaz-mert)
+- <a href="https://emoji.gg/emoji/35361-discord"><img src="https://cdn3.emoji.gg/emojis/35361-discord.png" width="18px" height="18px" alt="Discord"></a> Discord: yilmazmert
 
 Feel free to reach out to me. I'm always open to collaboration on new projects and sharing knowledge!
 
