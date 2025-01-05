@@ -21,7 +21,7 @@ I'm Mert, a software developer with a keen interest in data science and computer
 ## Contact Me
 
 - <img align="center" src="https://cdn3.emoji.gg/emojis/2989-gmail.png" width="16px" height="16px" alt="Gmail"> Email: mertyilmazgroup@gmail.com
-- <img align="center" src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="16px" height="16px" alt="Linkedin_logo"> LinkedIn: [linkedin.com/in/mert-yilmaz](https://www.linkedin.com/in/mert-yilmaz)
+- <img align="center" src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="16px" height="16px" alt="Linkedin_logo"> LinkedIn: [linkedin.com/in/yilmaz-mert](https://www.linkedin.com/in/yilmaz-mert)
 - <img align="center" src="https://cdn3.emoji.gg/emojis/7081-website.png" width="16px" height="16px" alt="Website"> Personal Website: [In development](https://www.linkedin.com/in/yilmaz-mert)
 - <img align="center" src="https://cdn3.emoji.gg/emojis/35361-discord.png" width="18px" height="18px" alt="Discord"> Discord: yilmazmert
 
